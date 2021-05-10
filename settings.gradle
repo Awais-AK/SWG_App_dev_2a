@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SWG_task2a"
